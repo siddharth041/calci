@@ -1,3 +1,36 @@
 .text-center{
     text-align: center;
 }
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+/* .m-w-20{
+    margin: 30vw;
+} */
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.row input{
+    font-size: 20px;
+    /* font-weight: bold; */
+    margin:0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
